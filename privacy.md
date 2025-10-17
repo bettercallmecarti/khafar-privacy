@@ -29,7 +29,7 @@
 لطلب حذف بيانات تم رفعها، راسلنا مع معلومات كافية لتحديدها.
 
 ## تواصل
-البريد:khafarpharamcy@gmail.com
+البريد:khafarpharmacy@gmail.com
 
 # Privacy Policy — Khafar
 Last updated: 2025-09-05
@@ -62,6 +62,6 @@ You may delete the app at any time, which removes locally stored data.
 To request deletion of uploaded content, contact us with sufficient details.
 
 ## Contact
-Email: khafarpharamcy@gmail.com
+Email: khafarpharmacy@gmail.com
 
  
